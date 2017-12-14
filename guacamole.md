@@ -2,3 +2,5 @@
 
 - avocado
 - oranges
+- chocolate
+- spice
