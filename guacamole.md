@@ -2,5 +2,4 @@
 
 - avocado
 - oranges
-- chocolate
-- spice
+- limes
